@@ -9,4 +9,11 @@ Step by step guide:
 5. Make sure to highlight your newly created link and save your console file. File - Save As
 6. Open CMD and type: mmc.exe -Embedding path/to/file
 
-The downloader is run under the MMC process as shown in the video.
+PoC Video: https://www.youtube.com/watch?v=LFgZOTmhzeA
+
+(The downloader is run under the MMC process as shown in the video.)
+
+Example MSC file(Downloads ProcExp.zip): https://github.com/FredCyberSecurity/LolbinMMCDownload/blob/main/download.msc
+
+Lolbas Project: https://lolbas-project.github.io/lolbas/Binaries/Mmc/#download
+
